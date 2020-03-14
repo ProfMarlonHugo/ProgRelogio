@@ -1,0 +1,6 @@
+c:\users\marlon.hugo\documents\visual studio 2013\Projects\ProgRelogio\ProgRelogio\bin\Debug\ProgRelogio.exe.config
+c:\users\marlon.hugo\documents\visual studio 2013\Projects\ProgRelogio\ProgRelogio\bin\Debug\ProgRelogio.exe
+c:\users\marlon.hugo\documents\visual studio 2013\Projects\ProgRelogio\ProgRelogio\bin\Debug\ProgRelogio.pdb
+c:\users\marlon.hugo\documents\visual studio 2013\Projects\ProgRelogio\ProgRelogio\obj\Debug\ProgRelogio.csprojResolveAssemblyReference.cache
+c:\users\marlon.hugo\documents\visual studio 2013\Projects\ProgRelogio\ProgRelogio\obj\Debug\ProgRelogio.exe
+c:\users\marlon.hugo\documents\visual studio 2013\Projects\ProgRelogio\ProgRelogio\obj\Debug\ProgRelogio.pdb
